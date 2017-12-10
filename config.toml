@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://alamgirqazi.github.io/example-hugo-site"
+baseurl = "https://alamgirqazi.github.io/example-hugo-blog"
 themesDir = "themes"
 languageCode = "en-us"
 title = "Hugo Site"
